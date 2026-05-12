@@ -1,0 +1,2 @@
+# Bahamas tracker uses Python stdlib only — no installs needed.
+# This file exists because Render's pip step requires it.
